@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FinalsTesting</string>
+    <string name="title_activity_view_edit_reports">ViewEditReportsActivity</string>
+</resources>
